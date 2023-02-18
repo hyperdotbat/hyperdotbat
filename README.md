@@ -22,6 +22,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### 📚 What I want to learn
   * <a title="CSS & SASS" href="https://sass-lang.com/"> <img width="40" src="assets/img/sass.png" alt="SASS logo" /> </a>
+  * <a title="Godot" href="https://godotengine.org/"> <img width="40" src="assets/img/godot.png" alt="Godot logo" /> </a>
 
 
 <h2 align="center">Know and using</h2>
