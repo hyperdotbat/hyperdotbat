@@ -1,11 +1,14 @@
 <h1 align="center">Heyyy💚</h1>
-<p align="center">Im <b><i>Hyper</i></b> - a 19 year old game developer, gamer and weeb
+<p align="center">Im <b><i>Hyper</i></b> - a 20 years old game developer, gamer and weeb
+With 3 years of experience in Unity and C#
+Ive worked on and published couple of projects solo
 <br>
 I also have a website with some links and a portfolio at https://hypergamesdev.github.io</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
 
 ### Currently working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=chromabounce&theme=cobalt)](https://github.com/hypergamesdev/ChromaBounce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperLemonStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HyperLemonStudios/rusty-ropes)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)!-->
@@ -14,7 +17,7 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### 🌟 Favorite Technologies
   *  <a title="Unity" href="http://unity.com/"> <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" /> </a>
-  *  <a title="GitKraken" href="https://gitkraken.com"> <img width="40" align="center" src="assets/img/gitkraken.png" alt="GitKraken logo" /> </a>
+  *  <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/"> <img width="40" src="assets/img/csharp.png" alt="CSharp logo"/> </a>
 
 ### 📖 What I'm currently learning
   * <a title="JS & JQuery" href="https://www.jquery.com/"> <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery logo" /> </a>
