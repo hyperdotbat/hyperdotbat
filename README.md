@@ -1,5 +1,6 @@
 <h1 align="center">Heyyy💚</h1>
 <p align="center">Im <b><i>Hyper</i></b> - a 20 years old game developer, gamer and weeb
+<br>
 With 3 years of experience in Unity and C#
 Ive worked on and published couple of projects solo
 <br>
