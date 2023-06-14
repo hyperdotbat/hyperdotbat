@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy💚</h1>
 <p align="center">Im <b><i>Hyper</i></b> - a 20 years old game developer, gamer and weeb
 <br>
-With 3 years of experience in Unity and C#
+With 3 years of experience in Unity and C# (and 2 in GameMaker: Studio)
 Ive worked on and published couple of projects solo
 <br>
 I also have a website with some links and a portfolio at https://hypergamesdev.github.io</p>
@@ -10,7 +10,8 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 
 ### Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=chromabounce&theme=cobalt)](https://github.com/hypergamesdev/ChromaBounce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=ritsukiri&theme=cobalt)](https://github.com/hypergamesdev/Ritsukiri)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperLemonStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HyperLemonStudios/rusty-ropes)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperLemonStudios&repo=iTower&theme=cobalt)](https://github.com/HyperLemonStudios/iTower)!-->
