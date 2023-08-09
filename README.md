@@ -3,6 +3,7 @@
 <br>
 With 3 years of experience in Unity and C# (and 2 in GameMaker: Studio)
 Ive worked on and published couple of projects solo
+Right now Im very passionate about learning Python
 <br>
 I also have a website with some links and a portfolio at https://hypergamesdev.github.io</p>
 
@@ -20,12 +21,14 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
 ### 🌟 Favorite Technologies
   *  <a title="Unity" href="http://unity.com/"> <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" /> </a>
   *  <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/"> <img width="40" src="assets/img/csharp.png" alt="CSharp logo"/> </a>
+  *  <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
 
 ### 📖 What I'm currently learning
-  * <a title="JS & JQuery" href="https://www.jquery.com/"> <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery logo" /> </a>
+  * <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
   * <a title="MongoDB" href="https://www.mongodb.com/"> <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB logo" /> </a>
 
 ### 📚 What I want to learn
+  * <a title="JS & JQuery" href="https://www.jquery.com/"> <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery logo" /> </a>
   * <a title="CSS & SASS" href="https://sass-lang.com/"> <img width="40" src="assets/img/sass.png" alt="SASS logo" /> </a>
   * <a title="Godot" href="https://godotengine.org/"> <img width="40" src="assets/img/godot.png" alt="Godot logo" /> </a>
 
@@ -41,9 +44,10 @@ I also have a website with some links and a portfolio at https://hypergamesdev.g
   <a title="Visual-studio-code" href="https://code.visualstudio.com/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
   </a>
-  <a title="MongoDB" href="https://www.mongodb.com/">
+  <!-- <a title="MongoDB" href="https://www.mongodb.com/">
     <img width="40" src="assets/img/mongodb.png" alt="MongoDB logo" />
-  </a>
+  </a> -->
+  <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
 </p>
   
 <p align="center">
