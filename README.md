@@ -3,7 +3,7 @@
 <br>
 With 3 years of experience in Unity and C# (and 2 in GameMaker: Studio)<br>
 Ive worked on and published couple of projects solo<br>
-Right now Im very passionate about learning Python and trying out Linux (Ubuntu)<br>
+Right now Im very passionate about learning Python, Godot and trying out Linux (Ubuntu)<br>
 <br>
 I also have a website with some links and a portfolio at https://hypergamesdev.github.io
 
@@ -13,8 +13,9 @@ Contact me on [LinkedIn](https://linkedin.com/in/hypergamesdev)
 ![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
 
 ### Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=chromabounce&theme=cobalt)](https://github.com/hypergamesdev/ChromaBounce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=ritsukiri&theme=cobalt)](https://github.com/hypergamesdev/Ritsukiri)
+Learning Python and Godot🤓
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=chromabounce&theme=cobalt)](https://github.com/hypergamesdev/ChromaBounce)!-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=ritsukiri&theme=cobalt)](https://github.com/hypergamesdev/Ritsukiri)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HyperLemonStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HyperLemonStudios/rusty-ropes)!-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)!-->
@@ -22,11 +23,13 @@ Contact me on [LinkedIn](https://linkedin.com/in/hypergamesdev)
 
 
 ### 🌟 Favorite Technologies
-  *  <a title="Unity" href="http://unity.com/"> <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" /> </a>
-  *  <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/"> <img width="40" src="assets/img/csharp.png" alt="CSharp logo"/> </a>
-  *  <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
+  <!--* <a title="Unity" href="http://unity.com/"> <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" /> </a>!-->
+  * <a title="Godot" href="http://godotengine.org/"> <img width="40" align="center" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot logo" /> </a>
+  * <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
+  * <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/"> <img width="40" src="assets/img/csharp.png" alt="CSharp logo"/> </a>
 
 ### 📖 What I'm currently learning
+  * <a title="Godot" href="http://godotengine.org/"> <img width="40" align="center" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot logo" /> </a>
   * <a title="Python" href="https://www.python.org/"> <img width="40" src="assets/img/python.png" alt="Python logo"/> </a>
   * <a title="Ubuntu" href="https://ubuntu.com"> <img width="40" src="assets/img/ubuntu.png" alt="Ubuntu logo"/> </a>
   <!--* <a title="MongoDB" href="https://www.mongodb.com/"> <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB logo" /> </a>!-->
@@ -79,5 +82,5 @@ Contact me on [LinkedIn](https://linkedin.com/in/hypergamesdev)
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyperGamesDev&theme=cobalt" />
 </p>!-->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt&v=2?exclude_repo=HyperGamesDev&hide=hlsl,shaderlab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperGamesDev&layout=compact&theme=cobalt&v=2?exclude_repo=HyperGamesDev&hide=hlsl,shaderlab,html,objective-c%2B%2B" />
 </p>
