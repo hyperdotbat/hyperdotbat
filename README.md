@@ -1,26 +1,27 @@
 <h1 align="center">Yoo💀</h1>
-<p align="center">Im <b><i>Hyper</i></b> or <i>Haipa</i> - a 20 year old game developer, gamer and weeb
+<p align="center">Im <b><i>Haipa</i></b> - a 20 year old game developer, gamer and weeb
 <br>
 With 3 years of experience in Unity and C# (and 2 in GameMaker: Studio)<br>
 Ive worked on and published couple of projects solo<br>
 Right now I am very passionate about learning Python and trying out Ubuntu<br>
 (If youre a job employer looking for Python stuff, most of my projects are private)<br>
 <br>
-I also have a website with some links and a portfolio at https://hypergamesdev.github.io
+I also have a portfolio website at https://haipadev.github.io
 
-Contact me on [LinkedIn](https://linkedin.com/in/hypergamesdev)
+Contact me on [LinkedIn](https://linkedin.com/in/haipadev)
 </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=HyperGamesDev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/hypergamesdev) 
+![Visitors](https://komarev.com/ghpvc/?username=haipadev) [![Coffee](https://badgen.net/badge/Buy%20Me/A%20Coffee/purple?icon=kofi)](https://www.buymeacoffee.com/haipadev) 
 
 ### 📜 Currently working on
 <!--Learning Python and Godot🤓<br>-->
-[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=hypergamesdev&repo=chromabounce&theme=cobalt)](https://github.com/hypergamesdev/ChromaBounce)
-<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=hypergamesdev&repo=ritsukiri&theme=cobalt)](https://github.com/hypergamesdev/Ritsukiri)-->
-<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=hypergamesdev&repo=sss222&theme=cobalt)](https://github.com/hypergamesdev/sss222)-->
-<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=HyperLemonStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HyperLemonStudios/rusty-ropes)-->
-<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=hypergamesdev&repo=glitchout&theme=cobalt)](https://github.com/hypergamesdev/glitchout)-->
-<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=HyperLemonStudios&repo=iTower&theme=cobalt)](https://github.com/HyperLemonStudios/iTower)-->
+[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=HaipaStudios&repo=project-cardrogue&theme=cobalt)](https://github.com/HaipaStudios/project-cardrogue)
+[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=haipadev&repo=logicbounce&theme=cobalt)](https://github.com/haipadev/LogicBounce)
+<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=haipadev&repo=ritsukiri&theme=cobalt)](https://github.com/haipadev/Ritsukiri)-->
+<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=haipadev&repo=sss222&theme=cobalt)](https://github.com/haipadev/sss222)-->
+<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=HaipaStudios&repo=rusty-ropes&theme=cobalt)](https://github.com/HaipaStudios/rusty-ropes)-->
+<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=haipadev&repo=glitchout&theme=cobalt)](https://github.com/haipadev/glitchout)-->
+<!--[![Readme Card](https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/pin/?username=HaipaStudios&repo=iTower&theme=cobalt)](https://github.com/HaipaStudios/iTower)-->
 
 
 ### 🌟 Favorite Technologies
@@ -76,12 +77,12 @@ Contact me on [LinkedIn](https://linkedin.com/in/hypergamesdev)
 
 <h2 align="center">📈 Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api?username=HyperGamesDev&count_private=true&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api?username=haipadev&count_private=true&show_icons=true&theme=cobalt" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HyperGamesDev&theme=cobalt" alt="hypergamesdev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaipaDev&theme=cobalt" alt="haipadev" /></p>
 <!--<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HyperGamesDev&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=haipadev&theme=cobalt" />
 </p>-->
 <p align="center">
-  <img align="center" src="https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/top-langs/?username=HyperGamesDev&count_private=true&layout=compact&theme=cobalt&exclude_repo=github-readme-stats,HyperGamesDev_assets,hypergamesdev.github.io,hypercraft,mc-planetoids&hide=hlsl,shaderlab,glsl,nsis,html,objective-c%2B%2B" />
+  <img align="center" src="https://github-readme-stats-hgd-git-main-hypergamesdev.vercel.app/api/top-langs/?username=haipadev&count_private=true&layout=compact&theme=cobalt&exclude_repo=github-readme-stats,HyperGamesDev_assets,hypergamesdev.github.io,hypercraft,mc-planetoids&hide=hlsl,shaderlab,glsl,nsis,html,objective-c%2B%2B" />
 </p>
