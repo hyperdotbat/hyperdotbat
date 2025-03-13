@@ -27,94 +27,97 @@ Learning C, C++, RayLib
 
 ### 🌟 Favorite Technologies
   * <a title="RayLib" href="https://www.raylib.com/">
-      <img width="40" align="center" src="assets/img/raylib.png" alt="RayLib logo"/>
+      <img width="40" align="center" src="assets/img/raylib.png" alt="RayLib"/>
     </a>
     <a title="C">
-      <img width="40" align="center" src="assets/img/c.png" alt="C logo"/>
+      <img width="40" align="center" src="assets/img/c.png" alt="C"/>
     </a>
-  * <a title="Unity" href="http://unity.com/">
-      <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" />
+  * <a title="Godot" href="http://godotengine.org/">
+      <img width="40" align="center" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" />
+    </a>
+    <a title="Unity" href="http://unity.com/">
+      <img width="40" align="center" src="assets/img/unity.png" alt="Unity" />
     </a>
     <a title="C#" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/">
-      <img width="40" align="center" src="assets/img/csharp.png" alt="C# logo"/>
+      <img width="40" align="center" src="assets/img/csharp.png" alt="C#"/>
     </a>
-  * <a title="Linux">
-      <img width="40" align="center" src="assets/img/linux.png" alt="Linux logo" />
+  * <a title="Arch Linux" href="https://wiki.archlinux.org">
+      <img width="40" align="center" src="assets/img/arch.png" alt="Arch" />
     </a>
-  <!-- * <a title="Godot" href="http://godotengine.org/">
-    <img width="40" align="center" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot logo" />
-  </a> -->
-  <!--  * <a title="Python" href="https://www.python.org/">
-    <img width="40" src="assets/img/python.png" alt="Python logo"/>
-  </a> -->
+    <a title="Linux" href="https://www.kernel.org/">
+      <img width="40" align="center" src="assets/img/linux.png" alt="Linux" />
+    </a>
 
 ### 📖 What I'm currently learning
   * <a title="RayLib" href="https://www.raylib.com/">
-      <img width="40" align="center" src="assets/img/raylib.png" alt="RayLib logo"/>
+      <img width="40" align="center" src="assets/img/raylib.png" alt="RayLib"/>
     </a>
     <a title="C">
-      <img width="40" align="center" src="assets/img/c.png" alt="C logo"/>
+      <img width="40" align="center" src="assets/img/c.png" alt="C"/>
     </a>
     <a title="C++">
-      <img width="40" align="center" src="assets/img/cpp.png" alt="C++ logo"/>
+      <img width="40" align="center" src="assets/img/cpp.png" alt="C++"/>
+    </a>
+  * <a title="Linux" href="https://www.kernel.org/">
+      <img width="40" align="center" src="assets/img/linux.png" alt="Linux" />
+    </a>
+    <a title="Docker" href="https://www.docker.com/">
+      <img width="40" align="center" src="assets/img/docker.png" alt="Docker" />
+    </a>
+    <a title="NVim" href="https://neovim.io/">
+      <img width="40" align="center" src="assets/img/neovim.png" alt="NVim" />
     </a>
 
 ### 📚 I've dabbled in
-  * <a title="Godot" href="http://godotengine.org/">
-      <img width="40" align="center" src="https://godotengine.org/assets/press/icon_color.png" alt="Godot logo" />
-    </a>
   * <a title="Python" href="https://www.python.org/">
-      <img width="40" align="center" src="assets/img/python.png" alt="Python logo"/>
+      <img width="40" align="center" src="assets/img/python.png" alt="Python"/>
     </a>
   * <a title="Fabric" href="https://fabricmc.net/">
-      <img width="40" align="center" src="https://avatars.githubusercontent.com/u/21025855?s=280&v=4" alt="Fabric logo"/>
+      <img width="40" align="center" src="https://avatars.githubusercontent.com/u/21025855?s=280&v=4" alt="Fabric"/>
     </a>
     <a title="Java">
-      <img width="40" align="center" src="assets/img/java.png" alt="Java logo"/>
+      <img width="40" align="center" src="assets/img/java.png" alt="Java"/>
     </a>
   * <a title="Photon" href="https://www.photonengine.com/">
-      <img width="40" align="center" src="assets/img/photon.png" alt="Photon logo" />
+      <img width="40" align="center" src="assets/img/photon.png" alt="Photon" />
     </a>
     <a title="MongoDB" href="https://www.mongodb.com/">
-      <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB logo" />
+      <img width="40" align="center" src="assets/img/mongodb.png" alt="MongoDB" />
     </a>
   * <a title="Blazor" href="https://learn.microsoft.com/pl-pl/aspnet/core/blazor">
-      <img width="40" align="center" src="assets/img/blazor.png" alt="Blazor logo" />
+      <img width="40" align="center" src="assets/img/blazor.png" alt="Blazor" />
     </a>
     <a title="JS & JQuery" href="https://www.jquery.com/">
-      <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery logo" />
+      <img width="40" align="center" src="assets/img/jquery.png" alt="JQuery" />
     </a>
     <a title="CSS & SASS" href="https://sass-lang.com/">
-      <img width="40" align="center" src="assets/img/sass.png" alt="SASS logo" />
+      <img width="40" align="center" src="assets/img/sass.png" alt="SASS" />
     </a>
 
 
 <h2 align="center">🤓 Know and using</h2>
 <p align="center">
   <a title="Unity" href="http://unity.com/">
-    <img width="40" align="center" src="assets/img/unity.png" alt="Unity logo" />
+    <img width="40" align="center" src="assets/img/unity.png" alt="Unity" />
   </a>
   <a title="CSharp" href="https://docs.microsoft.com/pl-pl/dotnet/csharp/">
-    <img width="40" align="center" src="assets/img/csharp.png" alt="CSharp logo"/>
+    <img width="40" align="center" src="assets/img/csharp.png" alt="CSharp"/>
   </a>
-  <a title="Visual-studio-code" href="https://code.visualstudio.com/">
-    <img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
+  <a title="VSCode" href="https://code.visualstudio.com/">
+    <img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VSode" />
   </a>
 </p>
   
 <p align="center">
   <a title="GitHub" href="https://github.com">
-    <img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub's logo" />
+    <img width="40" align="center" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" />
   </a>
   <a title="Git" href="https://git-scm.com/">
-    <img width="40" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" />
+    <img width="40" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
   </a>
   <a title="Arch" href="https://wiki.archlinux.org">
-    <img width="40" align="center" src="assets/img/arch.png" alt="Arch logo" />
+    <img width="40" align="center" src="assets/img/arch.png" alt="Arch" />
   </a>
-  <!--<a title="IntelliJ Idea" href="https://www.jetbrains.com/idea/">
-      <img width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="Idea logo" />
-  </a> -->
 </p>
 
 <h2 align="center">📈 Stats</h2>
